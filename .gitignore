@@ -2,6 +2,8 @@
 !README.md
 !.gitignore
 !src/
+!Pictures/
+!Pictures/*
 !src/*
 !src/*.c
 !src/*.h
