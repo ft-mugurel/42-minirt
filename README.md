@@ -2,7 +2,7 @@
 
 ![Project Image](Pictures/img.jpeg)
 
-This project is part of the École 42 curriculum. It focuses on [briefly describe the purpose or goal of the project].
+This project is part of the École 42 curriculum. It focuses on ray tracing.
 
 ---
 
